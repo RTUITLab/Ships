@@ -1,2 +1,3 @@
 # Ships
-Spherical-Ships v2.0
+
+Проект находится на GitLab - https://gitlab.rtuitlab.dev/public-projects/Ships
